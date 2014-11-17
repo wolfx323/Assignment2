@@ -74,6 +74,8 @@ nav	{
 	padding: 0% 5%;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 11pt;
+	height: 50px;
+	margin-bottom: 75px;
 }
 
 l {
@@ -134,3 +136,38 @@ a:active {
 	text-decoration: none;
 	}
 
+
+body {
+	margin-left: 20%;
+	margin-right: 20%;
+	}
+
+p {
+	font-size: 12pt;
+	line height: 150%;
+	font-family: Andale Mono, Courier, sans-serif;
+	margin-bottom: 15px;
+	}
+
+h1 {
+	font-size: 18pt;
+	text-align: center;
+	font-family: Verdana, Arial sans-serif;
+	margin-bottom: 20px;
+	}
+
+
+h2 {
+	font-size: 12pt;
+	text-align: center;
+	font-family: Verdana, Arial sans-serif;
+	margin-bottom: 10px;
+	}
+
+#good {
+	margin-bottom: 50px;
+	}
+
+#banner {
+	margin-top: 15px;
+	}
